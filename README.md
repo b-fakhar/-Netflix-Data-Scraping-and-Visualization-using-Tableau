@@ -1,4 +1,4 @@
-# Netflix-Data-Scrapping-Tableau-Dashboard
+# Netflix Data Scraping and Visualization using Tableau
 This project is a Python script that uses web scraping and the OMDb API to get IMDb ratings for movies and TV shows in your Netflix account.
 
 # Getting Started
