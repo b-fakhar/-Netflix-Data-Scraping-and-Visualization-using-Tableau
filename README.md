@@ -12,12 +12,10 @@ After running the script, a CSV file named netflix_ratings.csv will be generated
 In addition, you can use a Tableau dashboard to interact with and visualize your data. The link to my dashboard is provided below. Simply click the link to access the dashboard:
 My Netflix Dashboard Link: https://public.tableau.com/app/profile/behnaz.fakhar.firouzeh/viz/BehnazNetflixData/Dashboard1"
 
-# Contributing
-If you would like to contribute to this project, please feel free to submit a pull request with your changes or open an issue to report a bug or suggest an improvement.
-
-
 # Acknowledgments
 The Python Requests library for making HTTP requests
+
 The Beautiful Soup library for web scraping
+
 The OMDb API for movie and TV show data
 
