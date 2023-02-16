@@ -3,19 +3,14 @@ import pandas as pd
 import requests
 import json
 import re
-
 #!pip install omdb 
 import omdb
+
 # Add your API key
 omdb.set_default('apikey', 'XXXXXXXX')
 # Add your user_agent
 user_agent = 'XXXXXXXX'
 HEADERS = {'User-Agent':user_agent , 'Accept-Language': 'en-US, en;q=0.5'}
-
-from google.colab import drive
-drive.mount('/content/drive')
-
-
 
 def get_data(url):
     response = requests.get(url, headers=HEADERS)
