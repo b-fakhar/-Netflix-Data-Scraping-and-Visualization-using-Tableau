@@ -42,8 +42,8 @@ def get_data(url):
     return None
 
 # Movies
-# Add the URL for your netflix profile movies for example: "https://www.netflix.com/browse/genre/XXXXX?so=su&order=popularity"
-URL = "XXXX"
+# Add the URL for your netflix profile movies for example: "https://www.netflix.com/browse/genre/XXXXXXXX?so=su&order=popularity"
+URL = "XXXXXXXX"
 netflix_movies_df = get_data(URL)
 netflix_movies_df
 
@@ -55,8 +55,8 @@ netflix_movies_df.to_excel("netflix_movies_df.xlsx", index = False)
 netflix_movies_df
 
 # TV shows
-# Add the URL for your netflix profile TV shows for example: "https://www.netflix.com/browse/genre/XXXXX?so=su&order=popularity"
-URL = "XXXX"
+# Add the URL for your netflix profile TV shows for example: "https://www.netflix.com/browse/genre/XXXXXXXX?so=su&order=popularity"
+URL = "XXXXXXXX"
 netflix_tvshow_df = get_data(URL)
 
 # Remove duplicate TV shows
