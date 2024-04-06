@@ -9,6 +9,7 @@ To use this repository, you will need to have Python installed and set up with y
 
 # Usage
 After running the script, a CSV file named netflix_ratings.csv will be generated. This file contains information about the movies and TV shows on your Netflix profile, along with their IMDb ratings. You can view this file in Excel or use a Tableau dashboard to interact with and visualize your data. The link to my dashboard is provided below. Simply click the link to access the dashboard:
+
 My Netflix Dashboard Link: https://public.tableau.com/app/profile/behnaz.fakhar.firouzeh/viz/BehnazNetflixData/Dashboard1"
 
 # Acknowledgments
